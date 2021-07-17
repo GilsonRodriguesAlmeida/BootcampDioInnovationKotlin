@@ -8,7 +8,7 @@ class Pessoa {
 
     constructor()
 
-    fun infoDados() = "Nome: $nome | Cpf: $cpf"
+    fun infoDados() = "|Nome: $nome |Cpf: $cpf |"
 
 }
 
